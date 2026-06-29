@@ -1,0 +1,6 @@
+{
+  "name": "RZZR Downloader",
+  "description": "All in one RZZR Downloader for multiple platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
